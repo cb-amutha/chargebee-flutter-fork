@@ -1,3 +1,4 @@
+![Release](https://pub.dev/packages/chargebee_flutter)
 # Flutter SDK
 
 Chargebee's Flutter SDK enables you to build a seamless and efficient customer experience for your subscription business.
